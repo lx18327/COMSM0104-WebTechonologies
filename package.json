@@ -1,0 +1,8 @@
+{
+  "name": "COMSM0104-webtechnologiesproject",
+  "version": "0.1.0",
+  "description": "project for web technologies",
+  "main": "site/server.js",
+  "author": "Durga Rajendran",
+  "license": "ISC"
+}
